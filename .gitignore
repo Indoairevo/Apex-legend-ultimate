@@ -1,0 +1,11 @@
+node_modules
+dist
+build
+.playwright-cli
+.verify
+*.local
+android/.gradle
+android/build
+android/app/build
+android/local.properties
+android/capacitor-cordova-android-plugins/build
